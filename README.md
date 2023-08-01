@@ -1,0 +1,1 @@
+# Hide-Dock-Wallpaper-Editor
