@@ -4,6 +4,9 @@
 
 This Python script adds a black dock to every background image you want to hide the dock.
 
+Thanks to [iTech Expert](https://x.com/iTechExpert21?s=20) for helping me with the transparent dock image.
+
+
 ## Requirements
 
 To run this script, you need Python and the Pillow library. If you haven't installed Pillow yet, you can install it with the following command:
