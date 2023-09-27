@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script adds a dark dock to every background image where you want to hide the dock.
+When you wish to hide the dock, this Python script adds a dark dock to each background image.
 
 Thanks to [iTech Expert](https://x.com/iTechExpert21?s=20) for helping me with the transparent dock image.
 
