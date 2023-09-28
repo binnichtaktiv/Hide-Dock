@@ -1,4 +1,4 @@
-# Image Overlay Tool
+# Hide Dock
 
 ## Overview
 
